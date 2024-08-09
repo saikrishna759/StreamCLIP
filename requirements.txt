@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+transformers
+matplotlib
+yt-dlp
+numpy
+pandas
+torch
+timm
+ffmpeg
